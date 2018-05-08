@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="regresar1">Regresar</string>
+    <string name="nombre2">Nombre</string>
+    <string name="apellido2">Apellido</string>
+    <string name="ingrese_nombre1">Ingrese Nombre</string>
+    <string name="ingrese_apellido1">Ingrese Apellido</string>
+    <string name="enviar1">ENVIAR</string>
+    <string name="ingresanom">IngresaNombre</string>
+    <string name="ingresaape">IngresaApellido</string>
+    <string name="name">Name</string>
+    <string name="button2">Button</string>
+    <string name="navegar">NAVEGAR</string>
+    <string name="ingresa_url1">Ingresa URL</string>
+    <string name="cerrar1">CERRAR</string>
+</resources>
